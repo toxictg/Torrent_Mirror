@@ -1,7 +1,7 @@
 {
-    "name": "slam-mirrorbot ",
+    "name": "mirrorbot ",
     "description": "Telegram mirror bot writen python",
-    "logo": "https://telegra.ph/file/019996f816db9ed576cff.jpg",
+    "logo": "",
     "keywords": [
       "bot",
       "telegram",
