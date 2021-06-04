@@ -1,8 +1,8 @@
 # Torrent_Mirror
 
-owner of this repo :- [AYUSH](https://github.com/ayushteke)
+owner of this repo :- [Toxic](https://github.com/toxictg)
 
-contact me :- [AYUSH](https://t.me/request_ayush)
+contact me :- [SIVA](https://t.me/Sivapk1)
 
 # Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
@@ -72,8 +72,8 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU/
-cd slam_aria_mirror_bot_HEROKU
+git clone https://github.com/toxictg/Torrent_Mirror
+cd Torrent_Mirror
 ```
 
 - Install requirements
@@ -232,7 +232,6 @@ Thanks to:
 - [Dank-del](https://github.com/Dank-del/) for base repo
 - [magneto261290](https://github.com/magneto261290/) for some features
 - [SVR666](https://github.com/SVR666/) for some fixes
-- [4amparaboy](https://github.com/4amparaboy/) for some help
 - [WinTenDev](https://github.com/WinTenDev/) for Uptobox support
 - [iamLiquidX](https://github.com/iamLiquidX/) for Speedtest module
 - [ydner](https://github.com/ydner/) for Usage module
