@@ -1,11 +1,10 @@
 # Torrent_Mirror
-[![Slam](https://telegra.ph/file/019996f816db9ed576cff.jpg)](https://t.me/request_ayush)
 
 owner of this repo :- [AYUSH](https://github.com/ayushteke)
 
 contact me :- [AYUSH](https://t.me/request_ayush)
 
-# Slam Mirror Bot
+# Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 ## Deploying on Heroku
